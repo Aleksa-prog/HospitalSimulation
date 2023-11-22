@@ -4,7 +4,10 @@ UNIVERSITY OF JYVÄSKYLÄ
 Workshop 2
 by Oleksandra Ivanova, Shaswato Sarker and Tasnim Zahan
 
+Google doc link: https://docs.google.com/document/d/14nUtUIbizoJPDYQ6YP7-S2c91f2VppOMQytv_JcTg78/edit
+
 Goal: to try and implement the simulation of the hospital operation process, using the process-based method and programming language Python. To simulate patient processing in a hospital setting, focusing on patient flow through various phases and resource utilization.
+
 I. DEFINITIONS
 Key Components: Patients, Queue, Phases, Resources, Process Monitor.
 Processes: Patient, Queue (Q), Monitor
